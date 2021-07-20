@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bekanoor
 - 👀 I’m interested in drawing
 - 🌱 I’m currently learning front-end
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me divine 
 
 <!---
